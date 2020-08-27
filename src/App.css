@@ -1,0 +1,17 @@
+.course-container{
+  display:flex;
+  width:100%;
+  
+}
+.course-details{
+ 
+
+}
+.header-title{
+  margin:0;
+}
+.cart{
+  width:100%;
+  border-left:1px solid lightgray;
+ 
+}
